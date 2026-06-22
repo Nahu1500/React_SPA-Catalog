@@ -3,7 +3,7 @@
 **Alumno:** López Ferme Nahuel Ezequiel
 **Ciclo Lectivo:** 2026
 **Tarea Obligatoria:** N°3
-**Fecha de Entrega:** 20/06/2026
+**Fecha de Entrega:** 22/06/2026
 
 ---
 
