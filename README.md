@@ -1,21 +1,6 @@
-# Curso React by Tecno3F
-
-**Alumno:** López Ferme Nahuel Ezequiel
-**Ciclo Lectivo:** 2026
-**Tarea Obligatoria:** N°3
-**Fecha de Entrega:** 22/06/2026
-
----
-
-## Objetivo
-
-Implementar navegación dinámica con React Router, abstraer la lógica compleja en Custom Hooks y manejar información a nivel global utilizando la Context API (useContext), manteniendo en todo momento el tipado estricto con TypeScript.
-
----
-
 ## Descripción de la App
 
-Proyecto desarrollado con React + TypeScript, utilizando Vite, basado en el consumo de una API pública para la exploración y visualización de información mediante una arquitectura SPA (Single Page Application).
+Proyecto desarrollado con React + TypeScript, utilizando Vite, basado en el consumo de la API pública de Rick and Morty para la exploración y visualización de personajes mediante una arquitectura SPA (Single Page Application).
 
 La aplicación permite:
 
