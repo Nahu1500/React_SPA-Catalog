@@ -1,18 +1,18 @@
-## Descripción de la App
+## App Description
 
-Proyecto desarrollado con React + TypeScript, utilizando Vite, basado en el consumo de la API pública de Rick and Morty para la exploración y visualización de personajes mediante una arquitectura SPA (Single Page Application).
+Project built with React + TypeScript and Vite, consuming the public Rick and Morty API for exploring and visualizing character data through a SPA (Single Page Application) architecture.
 
-La aplicación permite:
+The application allows users to:
 
-- Buscar y explorar elementos dinámicamente desde una API externa
-- Navegar entre vistas utilizando React Router sin recargar la página
-- Visualizar información detallada mediante rutas dinámicas
-- Gestionar datos asíncronos a través de Custom Hooks reutilizables
-- Manejar estados de carga y error de forma centralizada
-- Compartir información global mediante Context API
-- Implementar un sistema de favoritos accesible desde toda la aplicación
-- Aplicar tipado estricto con TypeScript mediante interfaces y tipos personalizados
-- Mantener una arquitectura modular basada en componentes reutilizables
-- Gestionar variables de entorno para una configuración segura y escalable
-- Implementar una página 404 para rutas no existentes
-- Seguir buenas prácticas de desarrollo frontend moderno y escalabilidad
+- Search and dynamically explore data from an external API
+- Navigate between views using React Router without page reloads
+- View detailed information through dynamic routes
+- Manage asynchronous data via reusable Custom Hooks
+- Handle loading and error states in a centralized way
+- Share global data through the Context API
+- Implement a favorites system accessible from anywhere in the app
+- Enforce strict typing with TypeScript through interfaces and custom types
+- Maintain a modular architecture based on reusable components
+- Manage environment variables for secure and scalable configuration
+- Implement a 404 page for non-existent routes
+- Follow modern frontend development best practices and scalability principles
